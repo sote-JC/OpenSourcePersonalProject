@@ -75,4 +75,9 @@ public class GameManager_Story : MonoBehaviour
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
+
+    public void StopGame()
+    {
+        Debug.Log("Stop");
+    }
 }
