@@ -18,3 +18,6 @@
 1. C언어
 2. Rasbian OS 명령어
 3. Java
+------------------------
+#### 제안하는 제품과 비슷한 제품
+[Tintag](https://www.manualslib.com/manual/1336602/Tintag-Electronics-Tintag.html, "Tintag Manual")
