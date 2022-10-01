@@ -1,2 +1,28 @@
-# OpenSourceProject
-OpenSourceClass Project assignments
+오픈 소스 기초 설계 개인 프로젝트 제안
+======================================
+```
+오픈소스 기초 설계 수업에서 개인 프로젝트 문서를 제출하기 위한 Repository다.
+```
+
+## 주제: 분실 방지용 IoT 기기 Tracker 구상 및 Tracker 앱 개발 제안
+### 제안 배경
+>평소에 물건을 쉽게 분실하는 경우가 많은데   
+>물건의 분실을 방지하고 분실하더라도 쉽게 찾도록    
+>도와줄 수 있는 프로그램이 있으면 좋겠어서.
+------------------------
+### <작성자>
+> 학교: 숭실대학교
+>> 학과: AI융합학부
+>>> 학번: 20223076
+>>>> 이름: 박희준
+------------------------
+**필요한 코드 지식**
+1. C언어
+2. Rasbian OS 명령어
+3. Java
+------------------------
+#### 제안하는 제품과 비슷한 제품
+* IoT를 이용한 추적기 Tintag
+> Link: [Tintag][Tintaglink]
+
+[Tintaglink]: https://www.manualslib.com/manual/1336602/Tintag-Electronics-Tintag.html "Go Tintag Manual"
